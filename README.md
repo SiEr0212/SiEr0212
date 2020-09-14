@@ -1,12 +1,12 @@
 
-h1>Hello, I'm Simon Ertel 🙋‍♂️</h1>
+<h1>Hello, I'm Simon Ertel 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 <hr>
 
 <h3>How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/simon-ertel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:simonertel@gmx.de">:email:
+<h3>Email</h3><a href="mailto:simonertel@gmx.de">:email:
 <hr>
 
 <h2>Tools & Technologies</h2>
