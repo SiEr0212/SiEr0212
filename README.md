@@ -1,4 +1,4 @@
-![]<iframe src="https://giphy.com/embed/l0MYK5Nq6eg7PsYaQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/colors-creative-coding-l0MYK5Nq6eg7PsYaQ">via GIPHY</a></p>
+
 <h1>Hello, I'm Simon Ertel 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 <hr>
