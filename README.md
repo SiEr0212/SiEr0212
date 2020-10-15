@@ -7,6 +7,7 @@
 
 <a href="https://www.linkedin.com/in/simon-ertel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <h3>Email</h3><a href="mailto:simonertel@gmx.de">:email:
+<h3>Portfolio</h3><a href="https://sier0212.github.io/PORTFOLIO/projects.html">:scroll:
 <hr>
 
 <h2>Tools & Technologies</h2>
