@@ -27,9 +27,9 @@
    <br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
- 
  <br>
-   <img src="https://www.pngitem.com/pimgs/m/385-3850895_graphql-logo-svg-hd-png-download.png"  width="100" height="30">
+ <img src="https://www.pngitem.com/pimgs/m/385-3850895_graphql-logo-svg-hd-png-download.png"  width="100" height="30">&nbsp;&nbsp;&nbsp;
+ 
 </p> 
 
 <hr>
