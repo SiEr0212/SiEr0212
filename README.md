@@ -9,7 +9,7 @@
 <h3>Email</h3><a href="mailto:simonertel@gmx.de">:email:
 <hr>
  
-<h2>Portfolio</h2><a href="https://sier0212.github.io/PORTFOLIO/index.html">:scroll:
+<h2>Portfolio</h2><a href="https://simon-ertel-webdev.de/">:scroll:
 
 
 <hr>
