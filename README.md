@@ -3,7 +3,6 @@
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 <p>
 I’m a Full Stack Web Developer and visual Artist.
- <br>
 Always in search of creative programming solutions.
 <br>
 I love to code and develop exciting projects.
