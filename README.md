@@ -9,7 +9,7 @@ I love to code and develop exciting projects.
 <br>
 I’m a quick learner and always curious for new knowledge.
  <br>
- With my Fine Arts backround I enjoy creating digital worlds and implenting responsive web design.
+ With my Fine Arts backround I enjoy creating visually appealing digital worlds and implenting responsive web design.
 </p>
 <hr>
 
