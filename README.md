@@ -1,7 +1,7 @@
 
 <h1>Hello, I'm Simon Ertel 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
-<p></p>
+<p>I'm a fullstack web developer</p>
 <hr>
 
 <h3>How to reach me:</h3>
