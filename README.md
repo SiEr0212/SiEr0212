@@ -2,8 +2,13 @@
 <h1>Hello, I'm Simon Ertel 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 <p>
-I’m a Full Stack Web Developer and visual Artist. Always in search of creative programming solutions.
-I love to code and develop exciting projects. I’m a quick learner and always curious for new knowledge. With my Fine Arts backround I enjoy creating digital worlds and implenting responsive web design.
+I’m a Full Stack Web Developer and visual Artist.
+ <hr>
+Always in search of creative programming solutions.
+<hr>
+I love to code and develop exciting projects.
+<hr>
+I’m a quick learner and always curious for new knowledge. With my Fine Arts backround I enjoy creating digital worlds and implenting responsive web design.
 </p>
 <hr>
 
