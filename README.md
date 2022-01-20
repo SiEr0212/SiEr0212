@@ -8,7 +8,9 @@ Always in search of creative programming solutions.
 <br>
 I love to code and develop exciting projects.
 <br>
-I’m a quick learner and always curious for new knowledge. With my Fine Arts backround I enjoy creating digital worlds and implenting responsive web design.
+I’m a quick learner and always curious for new knowledge.
+ <br>
+ With my Fine Arts backround I enjoy creating digital worlds and implenting responsive web design.
 </p>
 <hr>
 
